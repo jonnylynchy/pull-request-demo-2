@@ -1,1 +1,3 @@
-# pull-request-demo-2
+# Pull Request Demo
+
+This is a PR demo for students in class.
